@@ -24,7 +24,7 @@ atividade é realizar edição , remoção ,listagem de clientes , adicionar ser
 Richard Rafael Sacramento soares <br>
 Análise e Desenvolvimento de sistemas 3°semestre <br> 
 [@LinkedIn](https://www.linkedin.com/mwlite/in/richard-soares-002195221) <br>
-<img src = "./Intregração_Homem_Maquina/readme/imge/richard.png" width="70"> 
+<img src = "https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/richard.png" width="70"> 
                               
 
 <br>
