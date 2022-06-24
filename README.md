@@ -9,10 +9,10 @@
 
 # Atividade Grupo World Beauty
 
-Lista realizada para materia de POO-JAVA com intuito avaliativo <br>
-prática que realiza o cadastramento de clientes para o grupo World Beauty <br>
-que trabalha no ramo da estética ,  o intuito de realizar edição , remoção e <br>
-listagem de clientes <br>
+Lista realizada para materia de POO-JAVA com intuito avaliativo , A <br>
+prática tem como finalidade realizar o cadastramento de clientes para o grupo World Beauty <br>
+que trabalha no ramo da estética tanto com homens tanto para mulheres ,  Objetivo da <br>
+atividade é realizar edição , remoção ,listagem de clientes , adicionar serviços ou produtos<br> novos entre outra tarefas  <br>
  <br id="atvi">
 
 # Código 
